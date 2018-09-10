@@ -1,13 +1,6 @@
 {
-<<<<<<< HEAD
   "main.css": "static/css/main.93bd135f.css",
   "main.css.map": "static/css/main.93bd135f.css.map",
   "main.js": "static/js/main.68bcee7f.js",
   "main.js.map": "static/js/main.68bcee7f.js.map"
-=======
-  "main.css": "static/css/main.664599cd.css",
-  "main.css.map": "static/css/main.664599cd.css.map",
-  "main.js": "static/js/main.7243599e.js",
-  "main.js.map": "static/js/main.7243599e.js.map"
->>>>>>> 68c6be095e2a00ae78a022bec6e5e91deca1c746
 }
